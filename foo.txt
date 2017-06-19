@@ -1,0 +1,3 @@
+Escrever algo neste arquivo esquisito
+Aqui também terá conteúdo no VIM
+
